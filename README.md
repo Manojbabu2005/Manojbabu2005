@@ -20,4 +20,4 @@
 ## 📈 GitHub Stats
 	![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manoj2005-ui&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj2005-ui&layout=compact)
-## 📫 Connect with Me- ✉️ Email: manoj@example.com- 🔗 LinkedIn: [Manoj Profile](https://linkedin.com/in/manoj-example)
+## 📫 Connect with Me- ✉️ Email: manojbabu.ch22@gmail.com- 🔗 LinkedIn: [Manoj Profile](https://www.linkedin.com/in/chittimilla-manoj-babu-6130792b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
