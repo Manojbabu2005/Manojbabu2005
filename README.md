@@ -1,273 +1,244 @@
+# Hi, I'm Manoj Babu 👋
 
-My goal is to present myself as a serious Computer Science student and aspiring Software Engineer, with a strong focus on software development, cybersecurity, machine learning, and problem solving.
+### Final-Year Computer Science Engineering Student | Aspiring Software Engineer | Cybersecurity & ML Enthusiast
 
-## My Profile
+I'm a Computer Science Engineering student passionate about building practical software solutions and exploring **Software Engineering, Cybersecurity, Machine Learning, and Problem Solving**.
 
-* Name: Manoj Babu
-* Degree: B.Tech Computer Science / Engineering
-* Current status: Final-year student
-* Career goal: Software Engineer / Software Developer
-* Target: Become job-ready and secure a software engineering role by 2027
-* Primary programming languages: Java, Python, C, JavaScript
-* Web technologies: HTML, CSS, JavaScript
-* Backend: Flask, basic Java Spring Boot
-* Databases: MySQL, SQLite
-* Other technologies: Git, GitHub, Firebase, Flutter
-* Areas I am learning/practicing:
+I enjoy turning ideas into working applications, learning new technologies, and continuously improving my programming and problem-solving skills.
 
-  * Data Structures & Algorithms
-  * Object-Oriented Programming
-  * DBMS
-  * Operating Systems
-  * Computer Networks
-  * Cybersecurity
-  * Machine Learning
-  * Cloud Computing
-  * DevOps
-  * SQL
-* Problem-solving: LeetCode / coding practice
-* Development environment: VS Code
+* 🎓 Final-year Computer Science Engineering student
+* 💻 Currently strengthening **Java, Python, SQL & Data Structures**
+* 🔐 Interested in **Cybersecurity & Network Defence**
+* 🤖 Exploring **Machine Learning & AI**
+* 🌐 Building **Web Applications & Backend Systems**
+* ☁️ Learning **Cloud Computing & DevOps**
+* 🧩 Practicing **DSA & Core Computer Science**
+* 🚀 Goal: Build a career as a **Software Engineer**
 
-## Projects
+---
 
-Include these projects with concise professional descriptions:
+## 🛠️ Technical Skills
 
-### 1. PredictShield — AI-Based Cyber Threat Prediction
+### Programming Languages
 
-GitHub:
-https://github.com/Manojbabu2005/PredictShield
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
-This is my Smart India Hackathon project based on SIH Problem Statement 26153.
+### Web Development
 
-The project focuses on using AI/ML and World Model concepts to learn network behavior, predict attacker progression, forecast future attack states, and provide proactive cyber-defense decision support.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
 
-Technologies/concepts:
+### Databases
 
-* Python
-* Machine Learning
-* LSTM
-* Network traffic analysis
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+
+### Core Computer Science
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems
+* Computer Networks
+* Computer Security
+* Software Engineering
+
+### Machine Learning & Cybersecurity
+
+* Data Preprocessing
+* Classification
+* Feature Engineering
+* LSTM & Sequence Modeling
+* Network Traffic Analysis
+* Cyber Threat Detection
 * MITRE ATT&CK
+* Network Defence
 * Explainable AI
-* Blockchain
-* Cybersecurity
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ PredictShield
+
+**AI-Based Network Attack Prediction & Proactive Cyber Defence**
+
+🔗 [View Repository](https://github.com/Manojbabu2005/PredictShield)
+
+PredictShield is an AI-driven cybersecurity system developed for **Smart India Hackathon 2026 – Problem Statement 26153**.
+
+The project focuses on learning network behavior, predicting future attacker progression, and supporting proactive cyber-defence decisions using temporal machine-learning approaches.
+
+### Key Areas
+
+* Network traffic analysis
+* Attack-state prediction
 * Temporal behavior modeling
+* LSTM-based sequence learning
+* MITRE ATT&CK mapping
+* Explainable decision support
+* Blockchain integration
+* Cyber threat intelligence
 
-Mention that I worked with a large network traffic dataset containing millions of records and experimented with preprocessing, feature scaling, class balancing, baseline ML models, and LSTM-based sequence modeling.
+### Technologies
 
-### 2. CyberArena
+`Python` `Machine Learning` `LSTM` `Cybersecurity` `MITRE ATT&CK` `Blockchain`
 
-Title:
-"CyberArena: A Web-Based Platform for Practical Cybersecurity and Network Defence Training"
+---
 
-Description:
-A cybersecurity learning platform designed to provide practical hands-on security training through isolated labs, challenges, structured learning paths, and an administration system.
+## 🧪 CyberArena
 
-Include concepts such as:
+### Web-Based Platform for Practical Cybersecurity & Network Defence Training
 
-* Cybersecurity labs
-* Network defense
-* Virtualized/containerized environments
-* Lab orchestration
-* Monitoring
+CyberArena is a practical cybersecurity learning platform designed around hands-on labs and challenge-based learning.
+
+The platform aims to provide learners with structured cybersecurity exercises through isolated environments while allowing administrators to provision, monitor, and manage training labs.
+
+### Key Concepts
+
+* Cybersecurity training
+* Network defence
+* Hands-on security labs
 * Challenge-based learning
-* Admin dashboard
+* Lab orchestration
+* Isolated environments
+* Monitoring & administration
 
-### 3. Fix It Now
+### Technologies
 
-Title:
-"Fix It Now — Online Civic Complaint Management System"
+`Web Development` `Cybersecurity` `Networking` `Containers/VMs` `Backend Systems`
 
-Description:
-A web-based civic complaint platform where users can submit complaints, upload supporting images, receive complaint IDs, and track complaint status while administrators manage complaints through a dashboard.
+---
 
-Technologies:
+## 🏛️ Fix It Now
 
-* HTML
-* CSS
-* JavaScript
-* Python
-* Flask
-* SQLite
+### Online Civic Complaint Management System
 
-Features:
+Fix It Now is a web-based platform that allows citizens to submit and track civic complaints digitally.
+
+### Features
 
 * User authentication
 * OTP-based login
 * Complaint submission
 * Image upload
-* Department/category selection
+* Department & category selection
 * Complaint ID generation
-* Status tracking
-* Admin dashboard
+* Complaint status tracking
+* Administrative dashboard
 * Dark mode
 
+### Technologies
 
-### 5. Online Voting System
+`HTML` `CSS` `JavaScript` `Python` `Flask` `SQLite`
 
-A Java-based project demonstrating object-oriented programming concepts and basic voting-system functionality.
+---
 
 
 
-### 7. Data Structures Word Scramble
+## 🗳️ Online Voting System
 
-A programming project focused on implementing data-structure and problem-solving concepts through a word-scramble application.
+A Java-based application developed to demonstrate object-oriented programming concepts through a basic digital voting workflow.
 
-## Certifications
+**Technologies:** `Java` `OOP`
 
-Include:
+---
 
-* Cisco — JavaScript Essentials 1
-* Cisco — Introduction to Cybersecurity
-* SoloLearn — C Programming
 
-## Technical Skills Section
 
-Create an attractive but professional skills section divided into categories:
+# 📚 Currently Learning
 
-Languages:
-Java, Python, C, JavaScript, SQL
+I'm continuously improving my software engineering fundamentals through hands-on development and problem solving.
 
-Web:
-HTML, CSS, JavaScript, Flask
+* ☕ Advanced Java
+* 🧩 Data Structures & Algorithms
+* 🗄️ SQL & Database Design
+* 🧠 Machine Learning
+* 🔐 Cybersecurity
+* 🌐 Computer Networks
+* ⚙️ Operating Systems
+* ☁️ Cloud Computing
+* 🔄 DevOps
+* 🏗️ Software Engineering & System Design
 
-Databases:
-MySQL, SQLite
+---
 
-Tools:
-Git, GitHub, VS Code
+# 🏆 Certifications
 
-Other:
-Flutter, Firebase, AWS/Cloud fundamentals, DevOps fundamentals
+* **Cisco** — JavaScript Essentials 1
+* **Cisco** — Introduction to Cybersecurity
+* **SoloLearn** — C Programming
 
-Core CS:
-DSA, OOP, DBMS, Operating Systems, Computer Networks, Cybersecurity
+---
 
-Machine Learning:
-Python, data preprocessing, classification, LSTM, model evaluation
+# 💡 Problem Solving
 
-Do NOT claim advanced expertise in technologies where my experience is only beginner/intermediate.
+I regularly practice programming problems to strengthen my:
 
-## Current Learning
-
-Create a section called "Currently Learning" containing:
-
-* Advanced Data Structures & Algorithms
-* Java for Software Development
+* Algorithmic thinking
+* Data structures
+* Time & space complexity analysis
+* Problem decomposition
+* Java programming
 * SQL
-* Machine Learning
-* Cybersecurity
-* Cloud Computing
-* DevOps
-* System Design fundamentals
-* Core Computer Science subjects
+* Interview problem solving
 
-Make it clear that these are ongoing learning areas rather than claiming mastery.
+---
 
-## GitHub Sections
+# 📊 GitHub Statistics
 
-Include professional sections for:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manojbabu2005&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojbabu2005&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
 
-* About Me
-* Tech Stack
-* Featured Projects
-* Current Learning
-* Certifications
-* GitHub Statistics
-* Contribution Streak
-* Coding Profiles
-* Contact / Connect With Me
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Manojbabu2005&theme=transparent&hide_border=true" />
+</p>
 
-Use GitHub-compatible Markdown.
+---
 
-## GitHub Statistics
+# 🎯 Career Objective
 
-Add commonly used GitHub statistics cards, but make sure the links/configuration are valid and use my GitHub username:
+I am looking for opportunities where I can apply my programming and computer science fundamentals, contribute to real-world software projects, and continue growing as a software engineer.
 
-Manojbabu2005
+I'm particularly interested in opportunities involving:
 
-Include:
+**Software Development • Backend Development • Cybersecurity • Machine Learning • Cloud & DevOps**
 
-* GitHub stats
-* Most used languages
-* Streak statistics
+---
 
-Do not use broken or deprecated services if you know a better maintained alternative.
+# 🤝 Let's Connect
 
-## Coding Profiles
+<p align="left">
+  <a href="https://github.com/Manojbabu2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-xi-dusky-tz0c8vf5m5.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-Create placeholders/links for:
+**LinkedIn:** [Add your LinkedIn profile]
 
-* GitHub
-* LinkedIn
-* LeetCode
-* Portfolio
+**LeetCode:** [Add your LeetCode profile]
 
-Portfolio:
-https://portfolio-xi-dusky-tz0c8vf5m5.vercel.app/
+**Email:** [Add your professional email]
 
-For LinkedIn and LeetCode, if the exact URLs are not known, use clearly marked placeholders instead of inventing URLs.
+---
 
-## Design Requirements
-
-The README should look like the profile of a serious software engineering candidate.
-
-Use:
-
-* Clean Markdown
-* Professional section hierarchy
-* A concise introduction
-* Small relevant emojis only where appropriate
-* Technology badges where useful
-* Project cards or clean project sections
-* Consistent formatting
-* Good whitespace
-* Recruiter-friendly wording
-* No excessive animations
-* No childish language
-* No fake achievements
-* No exaggerated claims
-* No unnecessary motivational quotes
-
-The README should communicate:
-
-1. Who I am
-2. What I build
-3. What technologies I use
-4. What I am currently learning
-5. My major projects
-6. My cybersecurity/ML interests
-7. How recruiters can contact me
-
-## Important
-
-Do not invent:
-
-* Companies I worked for
-* Job titles
-* Awards
-* Publications
-* Skills I have never mentioned
-* Project metrics
-* GitHub stars
-* Number of solved problems
-* Internship experience
-* Competitive programming rankings
-
-If information is unavailable, use a placeholder such as:
-
-[LinkedIn Profile]
-[LeetCode Profile]
-[Email]
-
-Make the final README polished enough to directly place inside my GitHub profile repository.
-
-Before producing the final README, optimize the wording for:
-
-* Software engineering recruiters
-* ATS/recruiter keyword visibility
-* Technical credibility
-* Clear project impact
-* Professional presentation
-
-Return ONLY the complete README.md content inside a single Markdown code block.
+<p align="center">
+  <i>Building. Learning. Solving. Improving. 🚀</i>
+</p>
