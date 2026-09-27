@@ -1,4 +1,3 @@
-Create a highly professional, recruiter-friendly GitHub Profile README.md for me.
 
 My goal is to present myself as a serious Computer Science student and aspiring Software Engineer, with a strong focus on software development, cybersecurity, machine learning, and problem solving.
 
@@ -103,25 +102,12 @@ Features:
 * Admin dashboard
 * Dark mode
 
-### 4. Smart Tourist Guide
-
-A Flask-based web application that helps users explore tourist destinations and provides location-related information.
-
-Technologies:
-
-* Python
-* Flask
-* HTML
-* CSS
-* JavaScript
 
 ### 5. Online Voting System
 
 A Java-based project demonstrating object-oriented programming concepts and basic voting-system functionality.
 
-### 6. OS Simulator
 
-A Java GUI-based project demonstrating operating-system concepts through simulation.
 
 ### 7. Data Structures Word Scramble
 
